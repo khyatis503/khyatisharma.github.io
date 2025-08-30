@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Khyati Sharma | Portfolio</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; background: #f8f8f8; }
+    h1 { color: #333; }
+    a { color: #0077cc; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <h1>Hello, I’m Khyati Sharma 👋</h1>
+  <p>Welcome to my personal website. I’m a researcher in <b>psychology and AI</b>, with work in human–AI relationships and sustainability.</p>
+
+  <h2>About Me</h2>
+  <p>I recently completed my Master’s in Clinical Psychology at Thapar Institute...</p>
+
+  <h2>Research</h2>
+  <ul>
+    <li>Human–AI Friendship: Thematic and relational analysis</li>
+    <li>Sustainable consumer psychology</li>
+  </ul>
+
+  <h2>Contact</h2>
+  <p>Email: <a href="mailto:yourmail@gmail.com">yourmail@gmail.com</a></p>
+</body>
+</html>
